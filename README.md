@@ -1,8 +1,10 @@
 # Linux Server Configuration
 
-IP Address: 35.170.69.229
-SSH Port: 2200
-URL: http://35.170.69.229/catalog
+**IP Address:** 35.170.69.229
+
+**SSH Port:** 2200
+
+**URL:** http://35.170.69.229/catalog
 
 ## Software Installed
 - PostgreSQL

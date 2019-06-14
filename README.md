@@ -27,6 +27,7 @@ I changed the permissions on the .git folder in /var/www/item-catalog so that it
 - https://github.com/psycopg/psycopg2/issues/560
 - https://www.carnaghan.com/knowledge-base/how-to-increase-the-length-of-a-character-varying-datatype-in-postgres-without-data-loss/
 - https://unix.stackexchange.com/questions/129573/bash-home-user-ssh-authorized-keys-no-such-file-or-directory
+- https://askubuntu.com/questions/601/the-following-packages-have-been-kept-back-why-and-how-do-i-solve-it
 
 ## Author
 Lianne McIntosh
